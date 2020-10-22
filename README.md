@@ -2,7 +2,7 @@
 
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
-Demo [here](https://m338v.csb.app/public/index.html)
+Demo [here](https://wnggw.csb.app/public/index.html)
 
 **Tier:** 1-Beginner
 
