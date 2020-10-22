@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../src/assets/styles/general.css"/>
+        <title>Bin2Dec</title>
+    <head>
+    <body>
+        <div class="container">
+            <div class="bin-box">
+                <h1>Bin2Dec</h1>
+                <form>
+                    <div class="group-input">
+                        <label for="bin">Binary</label><br>
+                        <input name="bin" type="text" onkeypress="return onlyNumbersEnter()" placeholder="Enter to 0 or 1" required><br>
+                    </div>
+                    <div class="group-input">
+                        <label for="dec">Decimal</label><br>
+                        <input name="dec" type="text" readonly>
+                    </div>
+                </form>
+                <button class="btn" onclick="convert();"type="button">Convert</button>
+            </div>
+        </div>    
+    </body>
+    <script src="../src/assets/scripts/script.js"> </script>
+</html>
