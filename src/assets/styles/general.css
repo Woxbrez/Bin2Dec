@@ -16,19 +16,34 @@ body{
 .btn{
     width: 100px;
     height: 40px;
+
     background-color: white;
     border:1px solid rgb(199, 196, 196);
-    display:inline-block;
     border-radius: 30px;
+
     font-family: Helvetica;
+    font-weight: 600;
+   
+    display:flex;
     justify-content: center;
     align-items: center;
-    transition: .35s;
+
     cursor:pointer;
+    text-decoration: none;
+
+    transition: .35s;
 }
 
-.btn:hover{
-    cursor: pointer;
+.btn:visited{
+    color: black;
+}
+
+.btn:active{
+    color: black;
+}
+
+.btn:link{
+    color: black;
 }
 
 .bin-box{
