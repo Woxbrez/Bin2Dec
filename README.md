@@ -4,7 +4,14 @@ Idea from [here](https://github.com/florinpop17/app-ideas)
 
 Demo [here](https://wnggw.csb.app/public/index.html)
 
-**Tier:** 1-Beginner
+## 🚀 Technology
+
+This project was developed with the following technologies:
+
+- [Css](https://www.w3schools.com/css/)
+- [Javascript](https://www.w3schools.com/js/)
+
+**💻 Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
@@ -23,12 +30,12 @@ constraints:
   example the natural logarithm. It's up to you to figure out which function
   to use.
 
-## User Stories
+## 🧠 User Stories
 
 - [x] ~User can enter up to 8 binary digits in one input field~
 - [x] ~User must be notified if anything other than a 0 or 1 was entered~
 - [x] ~User views the results in a single output field containing the decimal (base 10) equivalent of the the binary number that was entered~
 
-## Bonus features
+## 🧠 Bonus features
 
 - [x] ~User can enter a variable number of binary digits~
